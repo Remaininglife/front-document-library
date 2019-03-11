@@ -109,9 +109,9 @@ Document Library - 文档库
   
 &emsp;撰文不易，如果文章对小伙伴有帮助，希望小伙伴们给勤劳敲代码、辛苦撰文的 **jsliang** 进行微信/支付宝打赏，你们的每一次打赏都是最好的鼓励，谢谢~
 
-[//]: # (![图](./public-repertory/img/seek-reward.png))
+;![图](./public-repertory/img/seek-reward.png)
 
-[//]: # (![图](./public-repertory/img/seek-reward.jpg))
+;![图](./public-repertory/img/seek-reward.jpg)
 
 <br>
 
