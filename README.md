@@ -1,8 +1,7 @@
 Document Library - 文档库
 ===
 
-* Here is the jsliang's learning and working experience document on programming. If you have doubts about this, please send an email to 1741020489@qq.com.
-* 这里存放了jsliang的学习、工作中关于编程的经验文档。如果你对此有疑惑，请发邮件到1741020489@qq.com。
+* 这里存放了jsliang的学习、工作中关于编程的经验文档。如果你对此有疑惑，请发邮件到********@@qq.com。
 
 <br>
 
@@ -110,9 +109,8 @@ Document Library - 文档库
   
 &emsp;撰文不易，如果文章对小伙伴有帮助，希望小伙伴们给勤劳敲代码、辛苦撰文的 **jsliang** 进行微信/支付宝打赏，你们的每一次打赏都是最好的鼓励，谢谢~
 
-![图](./public-repertory/img/seek-reward.png)
-
-![图](./public-repertory/img/seek-reward.jpg)
+[^_^]: # (![图](./public-repertory/img/seek-reward.png))
+[^_^]: # (![图](./public-repertory/img/seek-reward.jpg))
 
 <br>
 
